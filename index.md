@@ -1,10 +1,10 @@
 ## Bem Vindo a [André L. Barros](https://github.com/lbarrosandre) GitHub Pages
 
-I am a Planning Coordinator with broad experience in strategic planning, BI reports, cost and negociation, for more 10 years working in food companies. 
+Experiência em planejamento estratégico de produção, desenvolvimento e modelagem dos dados, oferecendo suporte para as áreas de negócio, experiência na área de custos e negociação de
+preços.
+Atualmente sou responsável pela análise de rentabilidade de novos projetos, analise de food cost e desenvolvimento de ferramentas de gestão de matéria prima para área produtiva.
 
-I am currently responsible for profitability analysis of new projects and Production planning strategies for the clients that we serve.
-
-Skills: Strategy Planning; Team Management; Interpersonal Skills; Decision Making; Cost Analysis; Leadership; P&L; Power BI; Data Studio; Negotiation; Operational Performance;  Problem-solving; Communication..
+Habilidades: Planejamento estratégico; gerenciamento e desenvolvimento de pesssoas; habilidades interpessoais; tomada de decisão; análise de custos; lider; negociação; criatividade; inovador; resolução de problemas ; comunicação, gerenciamento de crise.
 
 ## News About Me
 ### Experiências
@@ -15,10 +15,10 @@ Skills: Strategy Planning; Team Management; Interpersonal Skills; Decision Makin
 * Implementation of visual control in strategic production areas.
 
 ### Carreira
-* 2014-Now  Production Planning Coordinator,  [LSG Group](https://www.lsg-group.com), SP.
-* 2012-2014  Purchaser PL, [Sky Asia](http://www.skyasia.com.br), SP.
-* 2010-2011  Purchaser PL, [SiSenõr](https://sisenor.com.br), SP.
-* 2007-2010  Purchaser Jr, [GRSA](http://www.grsa.com.br), SP.
+* 2014-Agora  Coordenador de Planejamento de Produção,  [LSG Group](https://www.lsg-group.com), SP.
+* 2012-2014  Comprador Pleno, [Sky Asia](http://www.skyasia.com.br), SP.
+* 2010-2011  Comprador Pleno, [SiSenõr](https://sisenor.com.br), SP.
+* 2007-2010  Comprador Junior, [GRSA](http://www.grsa.com.br), SP.
 
 ### Projetos
 * Desenvolvimento de novos fornecedores e produtos visando redução de custo;
@@ -33,9 +33,9 @@ Skills: Strategy Planning; Team Management; Interpersonal Skills; Decision Makin
 * Mudanças na estrutura do check list e VPS, resultando em maior produtividade e melhores resultados em relação a entrega de documentação. Acompanhamento das células de montagem   e iteração e tomada de decisão junto a supervisão. Melhorias na geração de projeção de MO. redução em 50% na redução de impressão de documentos e consolidação do cadastro em     um único arquivo facilitando e tendo maior assertividade na geração do planejamento de compras.
 
 ### Educação
-* 2020-2023 Bachelor Degree, Data Science, UNIVESP, São Paulo.
-* 2008-2009 Specialized Degree, Food Quality Management, USJT, São Paulo.
-* 2002-2006 Bachelor Degree, Food Engineering, UNIBH, Belo Horizonte.
+* 2020-2023 Graduação, Ciência de Dados, UNIVESP, São Paulo.
+* 2008-2009 Pós Graduação, Gestão de Qualidade, USJT, São Paulo.
+* 2002-2006 Graduação, Engenharia de Alimentos, UNIBH, Belo Horizonte.
 
 ### Cursos e Certificados
 * 2020 Power BI - BootCamp, Dot-Insight, SP 
@@ -46,11 +46,11 @@ Skills: Strategy Planning; Team Management; Interpersonal Skills; Decision Makin
 * 2020 Python Fundamentos para Análise de Dados, DSA, SP
 * 2020 Microsoft Power BI para Data Science, DSA, SP
 * 2020 HTML5 & CSS3, Estudonauta, SP
-* 2017 Advanced Excel, SkyChefs, SP
+* 2017 Excel Avançado, SkyChefs, SP
 * 2016 Sale Price, Sebrae, SP
 * 2013 Purchasing and Materials Management, Senac, SP
-* Financial Math, Catho, SP
-* Negotiation, Catho, SP
+* Matemática Financeira, Catho, SP
+* Negociação, Catho, SP
 
 ## Contato
 * E-Mail: lbarros.andre@gmail.com
