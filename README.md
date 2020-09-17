@@ -1,2 +1,2 @@
 # André Luiz Barros
-Carreira profissional
+Carreira Profissional
